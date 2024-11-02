@@ -19,6 +19,8 @@ docker container run -d -p 5002:5000 in28min/hello-world-nodejs:0.0.1.RELEASE
 docker container run -p 5003:5000 in28min/hello-world-nodejs:0.0.1.RELEASE
 
 docker container run -p 5003:5000 in28min/hello-world-nodejs:0.0.1.RELEASE
+
+https://github.com/in28minutes/spring-microservices-v3
  
 docker --version
 
